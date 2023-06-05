@@ -1,0 +1,11 @@
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\bin\Debug\Controle de Clientes.exe.config
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\bin\Debug\Controle de Clientes.exe
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\bin\Debug\Controle de Clientes.pdb
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle de Clientes.csproj.AssemblyReference.cache
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle de Clientes.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle_de_Clientes.Properties.Resources.resources
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle de Clientes.csproj.GenerateResource.cache
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle de Clientes.csproj.CoreCompileInputs.cache
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle de Clientes.exe
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle de Clientes.pdb
+D:\Faculdade\3º\Trabalho POO 2.0\Controle de Clientes\Controle de Clientes\obj\Debug\Controle_de_Clientes.Frm.resources
